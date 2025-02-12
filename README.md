@@ -1,6 +1,6 @@
 ## music-compilation
 <br />
-![cover](https://github.com/orangedragon1029/music-compilation/blob/main/cover16-9.jpg)
+<img src="https://github.com/orangedragon1029/music-compilation/blob/main/cover16-9.jpg" alt="cover">
 <br />
 Image taken on a Cannon EOS 4000D with a Macro Lens attachment while aiming at a Samsung SyncMaster T220HD that is displaying `nano` on Debian 12
 <br />
